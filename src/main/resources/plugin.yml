@@ -1,0 +1,11 @@
+name: NetherCoords
+version: 1.0.0
+main: io.github.pzrc.nethercoords.NetherCoords
+api-version: 1.13
+authors: [pzrc]
+description: An extremely simple plugin, aimed at providing a command to convert overworld coordinates to nether coordinates and vice-versa.
+commands:
+  coords:
+    description: Converts coordinates between the nether dimension and the overworld.
+    usage: "Usage: /coords"
+    aliases: convertcoords
