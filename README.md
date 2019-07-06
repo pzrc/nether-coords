@@ -1,4 +1,4 @@
-# nether-coords
+# NetherCoords
 A simple plugin that has a command that converts nether coordinates to overworld coordinates and vice-versa.
 An alias is /convertcoords
 
